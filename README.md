@@ -52,6 +52,9 @@
   <li><b>Compensating:</b> fortify the security of an asset</li>
 </ul>
 
-
+<h2>Controls Assessment</h2>
+<img src="">
+<img src="">
+<img src="">
 
 
