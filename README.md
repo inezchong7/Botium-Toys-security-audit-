@@ -34,13 +34,13 @@
 <p>The 3 main categories:</p>
 <ul>
   <li><b>Administrative/Managerial controls:</b> policies and procedures (how an organization manages data; employee responsibilities) </li>
-  <img src="">
-  
+  <img src="https://github.com/inezchong7/Botium-Toys-security-audit-/assets/106855786/ab008cb9-1074-4920-adcb-14de442bad9e">
+
   <li><b>Technical controls:</b> firewalls, intrusion detection systems (IDS), intrusion prevention systems (IPS), audio visual (AV) products, encryption</li>
-  <img src="">
+  <img src="https://github.com/inezchong7/Botium-Toys-security-audit-/assets/106855786/9d4a3ea4-19a4-4f92-8671-f1744c6ad2f6">
   
   <li><b>Physical controls:</b> door locks, cabinet locks, surveillance cameras, badge readers</li>
-  <img src="">
+  <img src="https://github.com/inezchong7/Botium-Toys-security-audit-/assets/106855786/d01f053b-9e91-490d-b37c-319821c1dec2">
 </ul>
 
 <p>The 5 types:</p>
