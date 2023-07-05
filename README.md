@@ -53,8 +53,10 @@
 </ul>
 
 <h2>Controls Assessment</h2>
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/inezchong7/Botium-Toys-security-audit-/assets/106855786/3d60962a-cb95-401c-96da-e27ae4a870ef">
+<img src="https://github.com/inezchong7/Botium-Toys-security-audit-/assets/106855786/629d011f-6aa6-403f-860b-1c55d49df8e5">
+<img src="https://github.com/inezchong7/Botium-Toys-security-audit-/assets/106855786/f91654a7-419d-4f11-a2f6-00ea789fdc20">
+<img src="https://github.com/inezchong7/Botium-Toys-security-audit-/assets/106855786/a1d58568-0fda-440d-813c-7d7c13de62d7">
+
 
 
