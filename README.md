@@ -29,3 +29,29 @@
   <li>Establish their policies and procedures, which includes their playbooks</li>
   <li>Ensure they are meeting compliance requirements</li>
 </ul>
+
+<h2>Control categories</h2>
+<p>The 3 main categories:</p>
+<ul>
+  <li><b>Administrative/Managerial controls:</b> policies and procedures (how an organization manages data; employee responsibilities) </li>
+  <img src="">
+  
+  <li><b>Technical controls:</b> firewalls, intrusion detection systems (IDS), intrusion prevention systems (IPS), audio visual (AV) products, encryption</li>
+  <img src="">
+  
+  <li><b>Physical controls:</b> door locks, cabinet locks, surveillance cameras, badge readers</li>
+  <img src="">
+</ul>
+
+<p>The 5 types:</p>
+<ul>
+  <li><b>Preventative:</b> prevent an incident from occurring</li>
+  <li><b>Corrective:</b> restore an asset after an incident</li>
+  <li><b>Detective:</b> whether an incident has occurred or is in progress</li>
+  <li><b>Deterrent:</b> discourage attacks</li>
+  <li><b>Compensating:</b> fortify the security of an asset</li>
+</ul>
+
+
+
+
